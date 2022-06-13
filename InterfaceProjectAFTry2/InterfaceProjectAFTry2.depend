@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1654884414 source:c:\users\paltenie adrian\documents\codeblock facultate programe\interfaceprojectaftry2\main.cpp
+	<iostream>
+	<string.h>
+	<list>
+	<fstream>
+	"tabelHash.h"
+
+1654785195 source:c:\users\paltenie adrian\documents\codeblock facultate programe\interfaceprojectaftry2\src\hashtable.cpp
+	"hashTable.h"
+	<iostream>
+	<string.h>
+	<list>
+	<fstream>
+
+1654785762 c:\users\paltenie adrian\documents\codeblock facultate programe\interfaceprojectaftry2\include\hashtable.h
+
+1654784815 source:c:\users\paltenie adrian\documents\codeblock facultate programe\interfaceprojectaftry2\src\user.cpp
+	"user.h"
+	"hashTable.h"
+	"hashTable.cpp"
+	<iostream>
+	<string.h>
+	<list>
+	<fstream>
+
+1654695496 c:\users\paltenie adrian\documents\codeblock facultate programe\interfaceprojectaftry2\include\user.h
+	<hashTable.h>
+
+1654697809 c:\users\paltenie adrian\documents\codeblock facultate programe\interfaceprojectaftry2\src\hashtable.cpp
+	"hashTable.h"
+	<iostream>
+	<string.h>
+	<list>
+	<fstream>
+
+1654884414 c:\users\paltenie adrian\documents\codeblock facultate programe\interfaceprojectaftry2\include\tabelhash.h
+	<iostream>
+	<string.h>
+
+1654885559 source:c:\users\paltenie adrian\documents\codeblock facultate programe\interfaceprojectaftry2\src\tabelhash.cpp
+	"tabelHash.h"
+	<iostream>
+	<string.h>
+	<list>
+	<fstream>
+
+1654872166 source:c:\users\paltenie adrian\desktop\misc\interfaceprojectaftry2\main.cpp
+	<iostream>
+	<string.h>
+	<list>
+	<fstream>
+	"tabelHash.h"
+
+1654871363 c:\users\paltenie adrian\desktop\misc\interfaceprojectaftry2\include\tabelhash.h
+	<iostream>
+	<string.h>
+
+1654876583 source:c:\users\paltenie adrian\desktop\misc\interfaceprojectaftry2\src\tabelhash.cpp
+	"tabelHash.h"
+	<iostream>
+	<string.h>
+	<list>
+	<fstream>
+
